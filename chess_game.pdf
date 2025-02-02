@@ -1,0 +1,1162 @@
+
+%PDF-1.6
+
+% Root
+1 0 obj
+<<
+  /AcroForm <<
+    /DA (/Helv 14 Tf 0 0 0 rg)
+    /Fields [ 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R ]
+  >>
+  /Pages 2 0 R
+  /OpenAction 42 0 R
+  /Type /Catalog
+>>
+endobj
+
+2 0 obj
+<<
+  /Count 1
+  /Kids [ 16 0 R ]
+  /Type /Pages
+>>
+endobj
+
+
+50 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♜) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(0, 0);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [50 540 110 600]
+  /Subtype /Widget
+  /T (B_0_0)
+  /Type /Annot
+>>
+endobj
+
+
+51 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♞) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(1, 0);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [110 540 170 600]
+  /Subtype /Widget
+  /T (B_1_0)
+  /Type /Annot
+>>
+endobj
+
+
+52 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♝) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(2, 0);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [170 540 230 600]
+  /Subtype /Widget
+  /T (B_2_0)
+  /Type /Annot
+>>
+endobj
+
+
+53 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♛) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(3, 0);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [230 540 290 600]
+  /Subtype /Widget
+  /T (B_3_0)
+  /Type /Annot
+>>
+endobj
+
+
+54 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♚) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(4, 0);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [290 540 350 600]
+  /Subtype /Widget
+  /T (B_4_0)
+  /Type /Annot
+>>
+endobj
+
+
+55 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♝) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(5, 0);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [350 540 410 600]
+  /Subtype /Widget
+  /T (B_5_0)
+  /Type /Annot
+>>
+endobj
+
+
+56 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♞) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(6, 0);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [410 540 470 600]
+  /Subtype /Widget
+  /T (B_6_0)
+  /Type /Annot
+>>
+endobj
+
+
+57 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♜) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(7, 0);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [470 540 530 600]
+  /Subtype /Widget
+  /T (B_7_0)
+  /Type /Annot
+>>
+endobj
+
+
+58 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♟) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(0, 1);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [50 480 110 540]
+  /Subtype /Widget
+  /T (B_0_1)
+  /Type /Annot
+>>
+endobj
+
+
+59 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♟) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(1, 1);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [110 480 170 540]
+  /Subtype /Widget
+  /T (B_1_1)
+  /Type /Annot
+>>
+endobj
+
+
+60 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♟) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(2, 1);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [170 480 230 540]
+  /Subtype /Widget
+  /T (B_2_1)
+  /Type /Annot
+>>
+endobj
+
+
+61 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♟) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(3, 1);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [230 480 290 540]
+  /Subtype /Widget
+  /T (B_3_1)
+  /Type /Annot
+>>
+endobj
+
+
+62 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♟) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(4, 1);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [290 480 350 540]
+  /Subtype /Widget
+  /T (B_4_1)
+  /Type /Annot
+>>
+endobj
+
+
+63 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♟) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(5, 1);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [350 480 410 540]
+  /Subtype /Widget
+  /T (B_5_1)
+  /Type /Annot
+>>
+endobj
+
+
+64 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♟) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(6, 1);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [410 480 470 540]
+  /Subtype /Widget
+  /T (B_6_1)
+  /Type /Annot
+>>
+endobj
+
+
+65 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♟) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(7, 1);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [470 480 530 540]
+  /Subtype /Widget
+  /T (B_7_1)
+  /Type /Annot
+>>
+endobj
+
+
+66 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(0, 2);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [50 420 110 480]
+  /Subtype /Widget
+  /T (B_0_2)
+  /Type /Annot
+>>
+endobj
+
+
+67 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(1, 2);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [110 420 170 480]
+  /Subtype /Widget
+  /T (B_1_2)
+  /Type /Annot
+>>
+endobj
+
+
+68 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(2, 2);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [170 420 230 480]
+  /Subtype /Widget
+  /T (B_2_2)
+  /Type /Annot
+>>
+endobj
+
+
+69 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(3, 2);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [230 420 290 480]
+  /Subtype /Widget
+  /T (B_3_2)
+  /Type /Annot
+>>
+endobj
+
+
+70 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(4, 2);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [290 420 350 480]
+  /Subtype /Widget
+  /T (B_4_2)
+  /Type /Annot
+>>
+endobj
+
+
+71 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(5, 2);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [350 420 410 480]
+  /Subtype /Widget
+  /T (B_5_2)
+  /Type /Annot
+>>
+endobj
+
+
+72 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(6, 2);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [410 420 470 480]
+  /Subtype /Widget
+  /T (B_6_2)
+  /Type /Annot
+>>
+endobj
+
+
+73 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(7, 2);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [470 420 530 480]
+  /Subtype /Widget
+  /T (B_7_2)
+  /Type /Annot
+>>
+endobj
+
+
+74 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(0, 3);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [50 360 110 420]
+  /Subtype /Widget
+  /T (B_0_3)
+  /Type /Annot
+>>
+endobj
+
+
+75 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(1, 3);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [110 360 170 420]
+  /Subtype /Widget
+  /T (B_1_3)
+  /Type /Annot
+>>
+endobj
+
+
+76 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(2, 3);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [170 360 230 420]
+  /Subtype /Widget
+  /T (B_2_3)
+  /Type /Annot
+>>
+endobj
+
+
+77 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(3, 3);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [230 360 290 420]
+  /Subtype /Widget
+  /T (B_3_3)
+  /Type /Annot
+>>
+endobj
+
+
+78 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(4, 3);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [290 360 350 420]
+  /Subtype /Widget
+  /T (B_4_3)
+  /Type /Annot
+>>
+endobj
+
+
+79 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(5, 3);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [350 360 410 420]
+  /Subtype /Widget
+  /T (B_5_3)
+  /Type /Annot
+>>
+endobj
+
+
+80 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(6, 3);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [410 360 470 420]
+  /Subtype /Widget
+  /T (B_6_3)
+  /Type /Annot
+>>
+endobj
+
+
+81 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(7, 3);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [470 360 530 420]
+  /Subtype /Widget
+  /T (B_7_3)
+  /Type /Annot
+>>
+endobj
+
+
+82 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(0, 4);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [50 300 110 360]
+  /Subtype /Widget
+  /T (B_0_4)
+  /Type /Annot
+>>
+endobj
+
+
+83 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(1, 4);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [110 300 170 360]
+  /Subtype /Widget
+  /T (B_1_4)
+  /Type /Annot
+>>
+endobj
+
+
+84 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(2, 4);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [170 300 230 360]
+  /Subtype /Widget
+  /T (B_2_4)
+  /Type /Annot
+>>
+endobj
+
+
+85 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(3, 4);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [230 300 290 360]
+  /Subtype /Widget
+  /T (B_3_4)
+  /Type /Annot
+>>
+endobj
+
+
+86 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(4, 4);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [290 300 350 360]
+  /Subtype /Widget
+  /T (B_4_4)
+  /Type /Annot
+>>
+endobj
+
+
+87 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(5, 4);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [350 300 410 360]
+  /Subtype /Widget
+  /T (B_5_4)
+  /Type /Annot
+>>
+endobj
+
+
+88 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(6, 4);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [410 300 470 360]
+  /Subtype /Widget
+  /T (B_6_4)
+  /Type /Annot
+>>
+endobj
+
+
+89 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(7, 4);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [470 300 530 360]
+  /Subtype /Widget
+  /T (B_7_4)
+  /Type /Annot
+>>
+endobj
+
+
+90 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(0, 5);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [50 240 110 300]
+  /Subtype /Widget
+  /T (B_0_5)
+  /Type /Annot
+>>
+endobj
+
+
+91 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(1, 5);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [110 240 170 300]
+  /Subtype /Widget
+  /T (B_1_5)
+  /Type /Annot
+>>
+endobj
+
+
+92 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(2, 5);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [170 240 230 300]
+  /Subtype /Widget
+  /T (B_2_5)
+  /Type /Annot
+>>
+endobj
+
+
+93 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(3, 5);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [230 240 290 300]
+  /Subtype /Widget
+  /T (B_3_5)
+  /Type /Annot
+>>
+endobj
+
+
+94 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(4, 5);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [290 240 350 300]
+  /Subtype /Widget
+  /T (B_4_5)
+  /Type /Annot
+>>
+endobj
+
+
+95 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(5, 5);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [350 240 410 300]
+  /Subtype /Widget
+  /T (B_5_5)
+  /Type /Annot
+>>
+endobj
+
+
+96 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(6, 5);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [410 240 470 300]
+  /Subtype /Widget
+  /T (B_6_5)
+  /Type /Annot
+>>
+endobj
+
+
+97 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA ( ) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(7, 5);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [470 240 530 300]
+  /Subtype /Widget
+  /T (B_7_5)
+  /Type /Annot
+>>
+endobj
+
+
+98 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♙) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(0, 6);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [50 180 110 240]
+  /Subtype /Widget
+  /T (B_0_6)
+  /Type /Annot
+>>
+endobj
+
+
+99 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♙) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(1, 6);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [110 180 170 240]
+  /Subtype /Widget
+  /T (B_1_6)
+  /Type /Annot
+>>
+endobj
+
+
+100 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♙) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(2, 6);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [170 180 230 240]
+  /Subtype /Widget
+  /T (B_2_6)
+  /Type /Annot
+>>
+endobj
+
+
+101 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♙) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(3, 6);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [230 180 290 240]
+  /Subtype /Widget
+  /T (B_3_6)
+  /Type /Annot
+>>
+endobj
+
+
+102 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♙) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(4, 6);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [290 180 350 240]
+  /Subtype /Widget
+  /T (B_4_6)
+  /Type /Annot
+>>
+endobj
+
+
+103 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♙) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(5, 6);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [350 180 410 240]
+  /Subtype /Widget
+  /T (B_5_6)
+  /Type /Annot
+>>
+endobj
+
+
+104 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♙) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(6, 6);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [410 180 470 240]
+  /Subtype /Widget
+  /T (B_6_6)
+  /Type /Annot
+>>
+endobj
+
+
+105 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♙) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(7, 6);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [470 180 530 240]
+  /Subtype /Widget
+  /T (B_7_6)
+  /Type /Annot
+>>
+endobj
+
+
+106 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♖) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(0, 7);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [50 120 110 180]
+  /Subtype /Widget
+  /T (B_0_7)
+  /Type /Annot
+>>
+endobj
+
+
+107 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♘) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(1, 7);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [110 120 170 180]
+  /Subtype /Widget
+  /T (B_1_7)
+  /Type /Annot
+>>
+endobj
+
+
+108 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♗) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(2, 7);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [170 120 230 180]
+  /Subtype /Widget
+  /T (B_2_7)
+  /Type /Annot
+>>
+endobj
+
+
+109 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♕) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(3, 7);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [230 120 290 180]
+  /Subtype /Widget
+  /T (B_3_7)
+  /Type /Annot
+>>
+endobj
+
+
+110 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♔) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(4, 7);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [290 120 350 180]
+  /Subtype /Widget
+  /T (B_4_7)
+  /Type /Annot
+>>
+endobj
+
+
+111 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♗) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(5, 7);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [350 120 410 180]
+  /Subtype /Widget
+  /T (B_5_7)
+  /Type /Annot
+>>
+endobj
+
+
+112 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♘) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(6, 7);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [410 120 470 180]
+  /Subtype /Widget
+  /T (B_6_7)
+  /Type /Annot
+>>
+endobj
+
+
+113 0 obj
+<<
+  /FT /Btn
+  /Ff 65536
+  /MK << /CA (♖) >>
+  /DA (/Helv 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(7, 7);) /S /JavaScript >>
+  /P 16 0 R
+  /Rect [470 120 530 180]
+  /Subtype /Widget
+  /T (B_7_7)
+  /Type /Annot
+>>
+endobj
+
+
+
+%% Chessboard Page
+16 0 obj
+<<
+  /Annots 21 0 R
+  /Contents 3 0 R
+  /CropBox [0 0 612 792]
+  /MediaBox [0 0 612 792]
+  /Parent 2 0 R
+  /Resources <<
+    /Font << /F1 5 0 R >>  % (Optional: You can define or embed a font here)
+  >>
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+3 0 obj
+<< >>
+stream
+% (Empty content stream – board is drawn using form fields.)
+endstream
+endobj
+
+21 0 obj
+[
+  50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R
+]
+endobj
+
+%% Document–level JavaScript for Chess Logic
+42 0 obj
+<< >>
+stream
+// Chessboard state and logic
+
+// 8x8 board: row 0 = top row
+var board = [
+  ['♜','♞','♝','♛','♚','♝','♞','♜'],
+  ['♟','♟','♟','♟','♟','♟','♟','♟'],
+  ['','','','','','','',''],
+  ['','','','','','','',''],
+  ['','','','','','','',''],
+  ['','','','','','','',''],
+  ['♙','♙','♙','♙','♙','♙','♙','♙'],
+  ['♖','♘','♗','♕','♔','♗','♘','♖']
+];
+
+var selected_piece = null;
+var selected_x = -1;
+var selected_y = -1;
+var current_turn = 'white';
+
+// Given a square (x,y), select its piece if it belongs to the player whose turn it is.
+function select_piece(x, y) {
+    var piece = board[y][x];
+    // Unicode for white pieces: U+2654 to U+2659 (decimal 9812-9817)
+    // Unicode for black pieces: U+265A to U+265F (decimal 9818-9823)
+    if (piece !== '' && (
+         (current_turn === 'white' && piece.charCodeAt(0) < 9818) ||
+         (current_turn === 'black' && piece.charCodeAt(0) >= 9818)
+       )) {
+        selected_piece = piece;
+        selected_x = x;
+        selected_y = y;
+    }
+}
+
+// Move a selected piece to (x,y) and switch turns.
+function move_piece(x, y) {
+    if (selected_piece !== null) {
+        // (Additional move validations can be added here.)
+        board[y][x] = selected_piece;
+        board[selected_y][selected_x] = '';
+        selected_piece = null;
+        selected_x = -1;
+        selected_y = -1;
+        current_turn = (current_turn === 'white') ? 'black' : 'white';
+        draw_board();
+    }
+}
+
+// This function is invoked when any square is clicked.
+function squareClicked(x, y) {
+    if (selected_piece === null && board[y][x] !== '') {
+        select_piece(x, y);
+    } else if (selected_piece !== null) {
+        move_piece(x, y);
+    }
+}
+
+// Update all the button fields to display the current board state.
+function draw_board() {
+    for (var y = 0; y < 8; y++) {
+        for (var x = 0; x < 8; x++) {
+            var fld = this.getField('B_' + x + '_' + y);
+            if (fld) {
+                fld.value = board[y][x];
+            }
+        }
+    }
+}
+
+// Initialize board when the PDF opens.
+draw_board();
+endstream
+endobj
+
+trailer
+<<
+  /Root 1 0 R
+>>
+%%EOF
