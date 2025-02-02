@@ -7,10 +7,10 @@
   /Pages 2 0 R
   /AcroForm <<
     /Fields [ 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R ]
-    /DA (/F1 14 Tf 0 0 0 rg)
+    /DA (/Helv 14 Tf 0 0 0 rg)
     /DR <<
       /Font <<
-        /F1 5 0 R
+        /Helv 5 0 R
       >>
     >>
   >>
@@ -18,14 +18,14 @@
     /S /JavaScript
     /JS (
       var board = [
-        ['♜','♞','♝','♛','♚','♝','♞','♜'],
-        ['♟','♟','♟','♟','♟','♟','♟','♟'],
+        ['r','n','b','q','k','b','n','r'],
+        ['p','p','p','p','p','p','p','p'],
         ['','','','','','','',''],
         ['','','','','','','',''],
         ['','','','','','','',''],
         ['','','','','','','',''],
-        ['♙','♙','♙','♙','♙','♙','♙','♙'],
-        ['♖','♘','♗','♕','♔','♗','♘','♖']
+        ['P','P','P','P','P','P','P','P'],
+        ['R','N','B','Q','K','B','N','R']
       ];
       
       var selected_piece = null;
@@ -45,8 +45,8 @@
       function select_piece(x, y) {
         var piece = board[y][x];
         if (piece !== '' && (
-          (current_turn === 'white' && piece.charCodeAt(0) < 9818) ||
-          (current_turn === 'black' && piece.charCodeAt(0) >= 9818)
+          (current_turn === 'white' && piece === piece.toUpperCase()) ||
+          (current_turn === 'black' && piece === piece.toLowerCase())
         )) {
           selected_piece = piece;
           selected_x = x;
@@ -97,7 +97,7 @@ endobj
   /MediaBox [ 0 0 612 792 ]
   /Resources <<
     /Font <<
-      /F1 5 0 R
+      /Helv 5 0 R
     >>
   >>
   /Annots [ 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R ]
@@ -121,14 +121,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_0_0)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 100 560 140 600 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♜)
+    /CA (r)
   >>
   /A <<
     /S /JavaScript
@@ -144,14 +144,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_1_0)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 140 560 180 600 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♞)
+    /CA (n)
   >>
   /A <<
     /S /JavaScript
@@ -167,14 +167,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_2_0)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 180 560 220 600 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♝)
+    /CA (b)
   >>
   /A <<
     /S /JavaScript
@@ -190,14 +190,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_3_0)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 220 560 260 600 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♛)
+    /CA (q)
   >>
   /A <<
     /S /JavaScript
@@ -213,14 +213,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_4_0)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 260 560 300 600 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♚)
+    /CA (k)
   >>
   /A <<
     /S /JavaScript
@@ -236,14 +236,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_5_0)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 300 560 340 600 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♝)
+    /CA (b)
   >>
   /A <<
     /S /JavaScript
@@ -259,14 +259,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_6_0)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 340 560 380 600 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♞)
+    /CA (n)
   >>
   /A <<
     /S /JavaScript
@@ -282,14 +282,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_7_0)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 380 560 420 600 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♜)
+    /CA (r)
   >>
   /A <<
     /S /JavaScript
@@ -305,14 +305,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_0_1)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 100 520 140 560 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♟)
+    /CA (p)
   >>
   /A <<
     /S /JavaScript
@@ -328,14 +328,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_1_1)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 140 520 180 560 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♟)
+    /CA (p)
   >>
   /A <<
     /S /JavaScript
@@ -351,14 +351,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_2_1)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 180 520 220 560 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♟)
+    /CA (p)
   >>
   /A <<
     /S /JavaScript
@@ -374,14 +374,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_3_1)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 220 520 260 560 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♟)
+    /CA (p)
   >>
   /A <<
     /S /JavaScript
@@ -397,14 +397,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_4_1)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 260 520 300 560 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♟)
+    /CA (p)
   >>
   /A <<
     /S /JavaScript
@@ -420,14 +420,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_5_1)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 300 520 340 560 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♟)
+    /CA (p)
   >>
   /A <<
     /S /JavaScript
@@ -443,14 +443,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_6_1)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 340 520 380 560 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♟)
+    /CA (p)
   >>
   /A <<
     /S /JavaScript
@@ -466,14 +466,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_7_1)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 380 520 420 560 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♟)
+    /CA (p)
   >>
   /A <<
     /S /JavaScript
@@ -489,7 +489,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_0_2)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 100 480 140 520 ]
@@ -512,7 +512,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_1_2)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 140 480 180 520 ]
@@ -535,7 +535,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_2_2)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 180 480 220 520 ]
@@ -558,7 +558,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_3_2)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 220 480 260 520 ]
@@ -581,7 +581,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_4_2)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 260 480 300 520 ]
@@ -604,7 +604,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_5_2)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 300 480 340 520 ]
@@ -627,7 +627,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_6_2)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 340 480 380 520 ]
@@ -650,7 +650,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_7_2)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 380 480 420 520 ]
@@ -673,7 +673,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_0_3)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 100 440 140 480 ]
@@ -696,7 +696,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_1_3)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 140 440 180 480 ]
@@ -719,7 +719,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_2_3)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 180 440 220 480 ]
@@ -742,7 +742,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_3_3)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 220 440 260 480 ]
@@ -765,7 +765,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_4_3)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 260 440 300 480 ]
@@ -788,7 +788,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_5_3)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 300 440 340 480 ]
@@ -811,7 +811,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_6_3)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 340 440 380 480 ]
@@ -834,7 +834,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_7_3)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 380 440 420 480 ]
@@ -857,7 +857,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_0_4)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 100 400 140 440 ]
@@ -880,7 +880,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_1_4)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 140 400 180 440 ]
@@ -903,7 +903,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_2_4)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 180 400 220 440 ]
@@ -926,7 +926,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_3_4)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 220 400 260 440 ]
@@ -949,7 +949,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_4_4)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 260 400 300 440 ]
@@ -972,7 +972,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_5_4)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 300 400 340 440 ]
@@ -995,7 +995,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_6_4)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 340 400 380 440 ]
@@ -1018,7 +1018,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_7_4)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 380 400 420 440 ]
@@ -1041,7 +1041,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_0_5)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 100 360 140 400 ]
@@ -1064,7 +1064,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_1_5)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 140 360 180 400 ]
@@ -1087,7 +1087,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_2_5)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 180 360 220 400 ]
@@ -1110,7 +1110,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_3_5)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 220 360 260 400 ]
@@ -1133,7 +1133,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_4_5)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 260 360 300 400 ]
@@ -1156,7 +1156,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_5_5)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 300 360 340 400 ]
@@ -1179,7 +1179,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_6_5)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 340 360 380 400 ]
@@ -1202,7 +1202,7 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_7_5)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 380 360 420 400 ]
@@ -1225,14 +1225,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_0_6)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 100 320 140 360 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♙)
+    /CA (P)
   >>
   /A <<
     /S /JavaScript
@@ -1248,14 +1248,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_1_6)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 140 320 180 360 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♙)
+    /CA (P)
   >>
   /A <<
     /S /JavaScript
@@ -1271,14 +1271,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_2_6)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 180 320 220 360 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♙)
+    /CA (P)
   >>
   /A <<
     /S /JavaScript
@@ -1294,14 +1294,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_3_6)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 220 320 260 360 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♙)
+    /CA (P)
   >>
   /A <<
     /S /JavaScript
@@ -1317,14 +1317,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_4_6)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 260 320 300 360 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♙)
+    /CA (P)
   >>
   /A <<
     /S /JavaScript
@@ -1340,14 +1340,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_5_6)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 300 320 340 360 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♙)
+    /CA (P)
   >>
   /A <<
     /S /JavaScript
@@ -1363,14 +1363,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_6_6)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 340 320 380 360 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♙)
+    /CA (P)
   >>
   /A <<
     /S /JavaScript
@@ -1386,14 +1386,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_7_6)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 380 320 420 360 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♙)
+    /CA (P)
   >>
   /A <<
     /S /JavaScript
@@ -1409,14 +1409,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_0_7)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 100 280 140 320 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♖)
+    /CA (R)
   >>
   /A <<
     /S /JavaScript
@@ -1432,14 +1432,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_1_7)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 140 280 180 320 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♘)
+    /CA (N)
   >>
   /A <<
     /S /JavaScript
@@ -1455,14 +1455,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_2_7)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 180 280 220 320 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♗)
+    /CA (B)
   >>
   /A <<
     /S /JavaScript
@@ -1478,14 +1478,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_3_7)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 220 280 260 320 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♕)
+    /CA (Q)
   >>
   /A <<
     /S /JavaScript
@@ -1501,14 +1501,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_4_7)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 260 280 300 320 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♔)
+    /CA (K)
   >>
   /A <<
     /S /JavaScript
@@ -1524,14 +1524,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_5_7)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 300 280 340 320 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♗)
+    /CA (B)
   >>
   /A <<
     /S /JavaScript
@@ -1547,14 +1547,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_6_7)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 340 280 380 320 ]
   /MK <<
     /BG [ 0.8 0.8 0.8 ]
     /BC [ 0 0 0 ]
-    /CA (♘)
+    /CA (N)
   >>
   /A <<
     /S /JavaScript
@@ -1570,14 +1570,14 @@ endobj
   /FT /Btn
   /Ff 65536
   /T (B_7_7)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ 380 280 420 320 ]
   /MK <<
     /BG [ 1 1 1 ]
     /BC [ 0 0 0 ]
-    /CA (♖)
+    /CA (R)
   >>
   /A <<
     /S /JavaScript

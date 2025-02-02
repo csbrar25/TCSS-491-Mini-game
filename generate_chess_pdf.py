@@ -9,10 +9,10 @@ CHESS_PDF_TEMPLATE = r"""
   /Pages 2 0 R
   /AcroForm <<
     /Fields [ ###FIELD_LIST### ]
-    /DA (/F1 14 Tf 0 0 0 rg)
+    /DA (/Helv 14 Tf 0 0 0 rg)
     /DR <<
       /Font <<
-        /F1 5 0 R
+        /Helv 5 0 R
       >>
     >>
   >>
@@ -20,14 +20,14 @@ CHESS_PDF_TEMPLATE = r"""
     /S /JavaScript
     /JS (
       var board = [
-        ['♜','♞','♝','♛','♚','♝','♞','♜'],
-        ['♟','♟','♟','♟','♟','♟','♟','♟'],
+        ['r','n','b','q','k','b','n','r'],
+        ['p','p','p','p','p','p','p','p'],
         ['','','','','','','',''],
         ['','','','','','','',''],
         ['','','','','','','',''],
         ['','','','','','','',''],
-        ['♙','♙','♙','♙','♙','♙','♙','♙'],
-        ['♖','♘','♗','♕','♔','♗','♘','♖']
+        ['P','P','P','P','P','P','P','P'],
+        ['R','N','B','Q','K','B','N','R']
       ];
       
       var selected_piece = null;
@@ -47,8 +47,8 @@ CHESS_PDF_TEMPLATE = r"""
       function select_piece(x, y) {
         var piece = board[y][x];
         if (piece !== '' && (
-          (current_turn === 'white' && piece.charCodeAt(0) < 9818) ||
-          (current_turn === 'black' && piece.charCodeAt(0) >= 9818)
+          (current_turn === 'white' && piece === piece.toUpperCase()) ||
+          (current_turn === 'black' && piece === piece.toLowerCase())
         )) {
           selected_piece = piece;
           selected_x = x;
@@ -99,7 +99,7 @@ endobj
   /MediaBox [ 0 0 612 792 ]
   /Resources <<
     /Font <<
-      /F1 5 0 R
+      /Helv 5 0 R
     >>
   >>
   /Annots [ ###FIELD_LIST### ]
@@ -132,7 +132,7 @@ CHESS_BUTTON_TEMPLATE = r"""
   /FT /Btn
   /Ff 65536
   /T (B_###X###_###Y###)
-  /DA (/F1 14 Tf 0 0 0 rg)
+  /DA (/Helv 14 Tf 0 0 0 rg)
   /F 4
   /P 3 0 R
   /Rect [ ###RECT### ]
@@ -154,14 +154,14 @@ BOARD_OFFSET_X = 100
 BOARD_OFFSET_Y = 600
 
 initial_board = [
-    ['♜','♞','♝','♛','♚','♝','♞','♜'],
-    ['♟','♟','♟','♟','♟','♟','♟','♟'],
+    ['r','n','b','q','k','b','n','r'],
+    ['p','p','p','p','p','p','p','p'],
     ['','','','','','','',''],
     ['','','','','','','',''],
     ['','','','','','','',''],
     ['','','','','','','',''],
-    ['♙','♙','♙','♙','♙','♙','♙','♙'],
-    ['♖','♘','♗','♕','♔','♗','♘','♖']
+    ['P','P','P','P','P','P','P','P'],
+    ['R','N','B','Q','K','B','N','R']
 ]
 
 def generate_chess_pdf():
