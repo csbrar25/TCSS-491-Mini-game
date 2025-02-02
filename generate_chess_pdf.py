@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-# Revised Chess PDF generator – inspired by the provided Tetris PDF code structure
 
 CHESS_PDF_TEMPLATE = r"""
 %PDF-1.6
