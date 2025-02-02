@@ -5,7 +5,7 @@
 1 0 obj
 <<
   /AcroForm <<
-    /DA (/Helv 14 Tf 0 0 0 rg)
+    /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)  % Ensures correct Unicode rendering
     /Fields [ 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R ]
   >>
   /Pages 2 0 R
@@ -27,14 +27,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♜) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(0, 0);) /S /JavaScript >>
+  /MK << /CA (♜) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [50 540 110 600]
+  /Rect [50 220 110 280]
   /Subtype /Widget
-  /T (B_0_0)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -43,14 +44,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♞) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(1, 0);) /S /JavaScript >>
+  /MK << /CA (♞) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [110 540 170 600]
+  /Rect [110 220 170 280]
   /Subtype /Widget
-  /T (B_1_0)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -59,14 +61,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♝) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(2, 0);) /S /JavaScript >>
+  /MK << /CA (♝) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [170 540 230 600]
+  /Rect [170 220 230 280]
   /Subtype /Widget
-  /T (B_2_0)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -75,14 +78,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♛) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(3, 0);) /S /JavaScript >>
+  /MK << /CA (♛) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [230 540 290 600]
+  /Rect [230 220 290 280]
   /Subtype /Widget
-  /T (B_3_0)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -91,14 +95,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♚) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(4, 0);) /S /JavaScript >>
+  /MK << /CA (♚) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [290 540 350 600]
+  /Rect [290 220 350 280]
   /Subtype /Widget
-  /T (B_4_0)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -107,14 +112,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♝) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(5, 0);) /S /JavaScript >>
+  /MK << /CA (♝) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [350 540 410 600]
+  /Rect [350 220 410 280]
   /Subtype /Widget
-  /T (B_5_0)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -123,14 +129,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♞) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(6, 0);) /S /JavaScript >>
+  /MK << /CA (♞) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [410 540 470 600]
+  /Rect [410 220 470 280]
   /Subtype /Widget
-  /T (B_6_0)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -139,14 +146,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♜) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(7, 0);) /S /JavaScript >>
+  /MK << /CA (♜) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [470 540 530 600]
+  /Rect [470 220 530 280]
   /Subtype /Widget
-  /T (B_7_0)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -155,14 +163,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♟) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(0, 1);) /S /JavaScript >>
+  /MK << /CA (♟) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [50 480 110 540]
+  /Rect [50 280 110 340]
   /Subtype /Widget
-  /T (B_0_1)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -171,14 +180,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♟) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(1, 1);) /S /JavaScript >>
+  /MK << /CA (♟) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [110 480 170 540]
+  /Rect [110 280 170 340]
   /Subtype /Widget
-  /T (B_1_1)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -187,14 +197,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♟) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(2, 1);) /S /JavaScript >>
+  /MK << /CA (♟) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [170 480 230 540]
+  /Rect [170 280 230 340]
   /Subtype /Widget
-  /T (B_2_1)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -203,14 +214,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♟) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(3, 1);) /S /JavaScript >>
+  /MK << /CA (♟) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [230 480 290 540]
+  /Rect [230 280 290 340]
   /Subtype /Widget
-  /T (B_3_1)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -219,14 +231,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♟) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(4, 1);) /S /JavaScript >>
+  /MK << /CA (♟) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [290 480 350 540]
+  /Rect [290 280 350 340]
   /Subtype /Widget
-  /T (B_4_1)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -235,14 +248,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♟) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(5, 1);) /S /JavaScript >>
+  /MK << /CA (♟) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [350 480 410 540]
+  /Rect [350 280 410 340]
   /Subtype /Widget
-  /T (B_5_1)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -251,14 +265,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♟) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(6, 1);) /S /JavaScript >>
+  /MK << /CA (♟) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [410 480 470 540]
+  /Rect [410 280 470 340]
   /Subtype /Widget
-  /T (B_6_1)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -267,14 +282,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♟) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(7, 1);) /S /JavaScript >>
+  /MK << /CA (♟) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [470 480 530 540]
+  /Rect [470 280 530 340]
   /Subtype /Widget
-  /T (B_7_1)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -283,14 +299,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(0, 2);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [50 420 110 480]
+  /Rect [50 340 110 400]
   /Subtype /Widget
-  /T (B_0_2)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -299,14 +316,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(1, 2);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [110 420 170 480]
+  /Rect [110 340 170 400]
   /Subtype /Widget
-  /T (B_1_2)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -315,14 +333,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(2, 2);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [170 420 230 480]
+  /Rect [170 340 230 400]
   /Subtype /Widget
-  /T (B_2_2)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -331,14 +350,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(3, 2);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [230 420 290 480]
+  /Rect [230 340 290 400]
   /Subtype /Widget
-  /T (B_3_2)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -347,14 +367,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(4, 2);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [290 420 350 480]
+  /Rect [290 340 350 400]
   /Subtype /Widget
-  /T (B_4_2)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -363,14 +384,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(5, 2);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [350 420 410 480]
+  /Rect [350 340 410 400]
   /Subtype /Widget
-  /T (B_5_2)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -379,14 +401,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(6, 2);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [410 420 470 480]
+  /Rect [410 340 470 400]
   /Subtype /Widget
-  /T (B_6_2)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -395,14 +418,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(7, 2);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [470 420 530 480]
+  /Rect [470 340 530 400]
   /Subtype /Widget
-  /T (B_7_2)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -411,14 +435,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(0, 3);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [50 360 110 420]
+  /Rect [50 400 110 460]
   /Subtype /Widget
-  /T (B_0_3)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -427,14 +452,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(1, 3);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [110 360 170 420]
+  /Rect [110 400 170 460]
   /Subtype /Widget
-  /T (B_1_3)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -443,14 +469,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(2, 3);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [170 360 230 420]
+  /Rect [170 400 230 460]
   /Subtype /Widget
-  /T (B_2_3)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -459,14 +486,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(3, 3);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [230 360 290 420]
+  /Rect [230 400 290 460]
   /Subtype /Widget
-  /T (B_3_3)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -475,14 +503,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(4, 3);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [290 360 350 420]
+  /Rect [290 400 350 460]
   /Subtype /Widget
-  /T (B_4_3)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -491,14 +520,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(5, 3);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [350 360 410 420]
+  /Rect [350 400 410 460]
   /Subtype /Widget
-  /T (B_5_3)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -507,14 +537,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(6, 3);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [410 360 470 420]
+  /Rect [410 400 470 460]
   /Subtype /Widget
-  /T (B_6_3)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -523,14 +554,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(7, 3);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [470 360 530 420]
+  /Rect [470 400 530 460]
   /Subtype /Widget
-  /T (B_7_3)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -539,14 +571,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(0, 4);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [50 300 110 360]
+  /Rect [50 460 110 520]
   /Subtype /Widget
-  /T (B_0_4)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -555,14 +588,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(1, 4);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [110 300 170 360]
+  /Rect [110 460 170 520]
   /Subtype /Widget
-  /T (B_1_4)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -571,14 +605,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(2, 4);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [170 300 230 360]
+  /Rect [170 460 230 520]
   /Subtype /Widget
-  /T (B_2_4)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -587,14 +622,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(3, 4);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [230 300 290 360]
+  /Rect [230 460 290 520]
   /Subtype /Widget
-  /T (B_3_4)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -603,14 +639,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(4, 4);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [290 300 350 360]
+  /Rect [290 460 350 520]
   /Subtype /Widget
-  /T (B_4_4)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -619,14 +656,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(5, 4);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [350 300 410 360]
+  /Rect [350 460 410 520]
   /Subtype /Widget
-  /T (B_5_4)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -635,14 +673,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(6, 4);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [410 300 470 360]
+  /Rect [410 460 470 520]
   /Subtype /Widget
-  /T (B_6_4)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -651,14 +690,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(7, 4);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [470 300 530 360]
+  /Rect [470 460 530 520]
   /Subtype /Widget
-  /T (B_7_4)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -667,14 +707,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(0, 5);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [50 240 110 300]
+  /Rect [50 520 110 580]
   /Subtype /Widget
-  /T (B_0_5)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -683,14 +724,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(1, 5);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [110 240 170 300]
+  /Rect [110 520 170 580]
   /Subtype /Widget
-  /T (B_1_5)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -699,14 +741,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(2, 5);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [170 240 230 300]
+  /Rect [170 520 230 580]
   /Subtype /Widget
-  /T (B_2_5)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -715,14 +758,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(3, 5);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [230 240 290 300]
+  /Rect [230 520 290 580]
   /Subtype /Widget
-  /T (B_3_5)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -731,14 +775,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(4, 5);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [290 240 350 300]
+  /Rect [290 520 350 580]
   /Subtype /Widget
-  /T (B_4_5)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -747,14 +792,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(5, 5);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [350 240 410 300]
+  /Rect [350 520 410 580]
   /Subtype /Widget
-  /T (B_5_5)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -763,14 +809,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(6, 5);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [410 240 470 300]
+  /Rect [410 520 470 580]
   /Subtype /Widget
-  /T (B_6_5)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -779,14 +826,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA ( ) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(7, 5);) /S /JavaScript >>
+  /MK << /CA ( ) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [470 240 530 300]
+  /Rect [470 520 530 580]
   /Subtype /Widget
-  /T (B_7_5)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -795,14 +843,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♙) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(0, 6);) /S /JavaScript >>
+  /MK << /CA (♙) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [50 180 110 240]
+  /Rect [50 580 110 640]
   /Subtype /Widget
-  /T (B_0_6)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -811,14 +860,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♙) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(1, 6);) /S /JavaScript >>
+  /MK << /CA (♙) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [110 180 170 240]
+  /Rect [110 580 170 640]
   /Subtype /Widget
-  /T (B_1_6)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -827,14 +877,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♙) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(2, 6);) /S /JavaScript >>
+  /MK << /CA (♙) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [170 180 230 240]
+  /Rect [170 580 230 640]
   /Subtype /Widget
-  /T (B_2_6)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -843,14 +894,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♙) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(3, 6);) /S /JavaScript >>
+  /MK << /CA (♙) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [230 180 290 240]
+  /Rect [230 580 290 640]
   /Subtype /Widget
-  /T (B_3_6)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -859,14 +911,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♙) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(4, 6);) /S /JavaScript >>
+  /MK << /CA (♙) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [290 180 350 240]
+  /Rect [290 580 350 640]
   /Subtype /Widget
-  /T (B_4_6)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -875,14 +928,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♙) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(5, 6);) /S /JavaScript >>
+  /MK << /CA (♙) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [350 180 410 240]
+  /Rect [350 580 410 640]
   /Subtype /Widget
-  /T (B_5_6)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -891,14 +945,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♙) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(6, 6);) /S /JavaScript >>
+  /MK << /CA (♙) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [410 180 470 240]
+  /Rect [410 580 470 640]
   /Subtype /Widget
-  /T (B_6_6)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -907,14 +962,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♙) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(7, 6);) /S /JavaScript >>
+  /MK << /CA (♙) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [470 180 530 240]
+  /Rect [470 580 530 640]
   /Subtype /Widget
-  /T (B_7_6)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -923,14 +979,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♖) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(0, 7);) /S /JavaScript >>
+  /MK << /CA (♖) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [50 120 110 180]
+  /Rect [50 640 110 700]
   /Subtype /Widget
-  /T (B_0_7)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -939,14 +996,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♘) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(1, 7);) /S /JavaScript >>
+  /MK << /CA (♘) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [110 120 170 180]
+  /Rect [110 640 170 700]
   /Subtype /Widget
-  /T (B_1_7)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -955,14 +1013,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♗) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(2, 7);) /S /JavaScript >>
+  /MK << /CA (♗) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [170 120 230 180]
+  /Rect [170 640 230 700]
   /Subtype /Widget
-  /T (B_2_7)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -971,14 +1030,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♕) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(3, 7);) /S /JavaScript >>
+  /MK << /CA (♕) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [230 120 290 180]
+  /Rect [230 640 290 700]
   /Subtype /Widget
-  /T (B_3_7)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -987,14 +1047,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♔) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(4, 7);) /S /JavaScript >>
+  /MK << /CA (♔) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [290 120 350 180]
+  /Rect [290 640 350 700]
   /Subtype /Widget
-  /T (B_4_7)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -1003,14 +1064,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♗) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(5, 7);) /S /JavaScript >>
+  /MK << /CA (♗) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [350 120 410 180]
+  /Rect [350 640 410 700]
   /Subtype /Widget
-  /T (B_5_7)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -1019,14 +1081,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♘) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(6, 7);) /S /JavaScript >>
+  /MK << /CA (♘) /BG [0.5 0.5 0.5] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [410 120 470 180]
+  /Rect [410 640 470 700]
   /Subtype /Widget
-  /T (B_6_7)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -1035,14 +1098,15 @@ endobj
 <<
   /FT /Btn
   /Ff 65536
-  /MK << /CA (♖) >>
-  /DA (/Helv 14 Tf 0 0 0 rg)
-  /A << /JS (squareClicked(7, 7);) /S /JavaScript >>
+  /MK << /CA (♖) /BG [1 1 1] /BC [0 0 0] >>
+  /DA (/ArialUnicodeMS 14 Tf 0 0 0 rg)
+  /A << /JS (squareClicked(###X###, ###Y###);) /S /JavaScript >>
   /P 16 0 R
-  /Rect [470 120 530 180]
+  /Rect [470 640 530 700]
   /Subtype /Widget
-  /T (B_7_7)
+  /T (B_###X###_###Y###)
   /Type /Annot
+  /Border [1 1 1]
 >>
 endobj
 
@@ -1057,7 +1121,7 @@ endobj
   /MediaBox [0 0 612 792]
   /Parent 2 0 R
   /Resources <<
-    /Font << /F1 5 0 R >>  % (Optional: You can define or embed a font here)
+    /Font << /F1 5 0 R >>  
   >>
   /Rotate 0
   /Type /Page
@@ -1067,7 +1131,6 @@ endobj
 3 0 obj
 << >>
 stream
-% (Empty content stream – board is drawn using form fields.)
 endstream
 endobj
 
@@ -1077,13 +1140,9 @@ endobj
 ]
 endobj
 
-%% Document–level JavaScript for Chess Logic
 42 0 obj
 << >>
 stream
-// Chessboard state and logic
-
-// 8x8 board: row 0 = top row
 var board = [
   ['♜','♞','♝','♛','♚','♝','♞','♜'],
   ['♟','♟','♟','♟','♟','♟','♟','♟'],
@@ -1100,11 +1159,8 @@ var selected_x = -1;
 var selected_y = -1;
 var current_turn = 'white';
 
-// Given a square (x,y), select its piece if it belongs to the player whose turn it is.
 function select_piece(x, y) {
     var piece = board[y][x];
-    // Unicode for white pieces: U+2654 to U+2659 (decimal 9812-9817)
-    // Unicode for black pieces: U+265A to U+265F (decimal 9818-9823)
     if (piece !== '' && (
          (current_turn === 'white' && piece.charCodeAt(0) < 9818) ||
          (current_turn === 'black' && piece.charCodeAt(0) >= 9818)
@@ -1115,10 +1171,8 @@ function select_piece(x, y) {
     }
 }
 
-// Move a selected piece to (x,y) and switch turns.
 function move_piece(x, y) {
     if (selected_piece !== null) {
-        // (Additional move validations can be added here.)
         board[y][x] = selected_piece;
         board[selected_y][selected_x] = '';
         selected_piece = null;
@@ -1129,7 +1183,6 @@ function move_piece(x, y) {
     }
 }
 
-// This function is invoked when any square is clicked.
 function squareClicked(x, y) {
     if (selected_piece === null && board[y][x] !== '') {
         select_piece(x, y);
@@ -1138,19 +1191,17 @@ function squareClicked(x, y) {
     }
 }
 
-// Update all the button fields to display the current board state.
 function draw_board() {
     for (var y = 0; y < 8; y++) {
         for (var x = 0; x < 8; x++) {
             var fld = this.getField('B_' + x + '_' + y);
             if (fld) {
-                fld.value = board[y][x];
+                fld.value = String.fromCharCode(board[y][x].charCodeAt(0));
             }
         }
     }
 }
 
-// Initialize board when the PDF opens.
 draw_board();
 endstream
 endobj
